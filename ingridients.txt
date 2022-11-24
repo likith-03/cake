@@ -1,0 +1,4 @@
+flour 
+egg
+milk
+sugar
